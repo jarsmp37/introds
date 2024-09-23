@@ -13,11 +13,10 @@
   - Tratamiento de duplicados
   - Filtrado de columnas
   - Cambio de tipo de valores
-  - **Clase 5:** 
+- **Clase 5:** 
   - Eliminación de filas por indexado
   - Reindexado
   - Eliminación de columnas
   - Manejo de datos tipo datetime
   - Uso de diccionarios para remplazar elementos
   - Generar Csv final
-  

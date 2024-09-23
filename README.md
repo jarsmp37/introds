@@ -20,3 +20,9 @@
   - Manejo de datos tipo datetime
   - Uso de diccionarios para remplazar elementos
   - Generar Csv final
+- **Clase 6:** Limpieza final
+- **Clase 7:** 
+  - Libreria matplotlib
+  - Análisis estadístico inicial
+  - Uso de histogramas
+  - Uso de Boxplots

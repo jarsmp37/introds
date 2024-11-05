@@ -26,7 +26,7 @@ st.markdown(
     f"""
     <style>
     .main {{
-        background-image: url("https://www.example.com/your-background-image.jpg");
+        background-image: url("https://www.naukri.com/campus/career-guidance/what-is-data-science");
         background-size: cover;
         color: white;
     }}

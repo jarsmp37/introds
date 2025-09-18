@@ -1,0 +1,16 @@
+id,edad,nombre
+1,20,Ana
+NaN,21,Luis
+3,22,Maria
+X,23,Pedro
+5,24,Sofia
+NaN,25,Jose
+7,26,Carmen
+8,27,Raul
+9,??,Lucia
+??,29,Miguel
+5,24,Sofia
+7,26,Carmen
+3,22,Maria
+8,27,mod_20
+mod_88,26,Carmen
